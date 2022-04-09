@@ -1,1 +1,1 @@
-# linear_regression_bike_sharing_use_case
+This Repo will contain projects which I did as part of POC/ practice of implementation of ML algorithms
